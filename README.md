@@ -1,8 +1,9 @@
 # SYSU-DataMining
 
 > 2021 年中山大学计算机学院数据挖掘作业
-> 
 > 讲课老师：梁上松
+
+对于单份作业，请到 [此处](https://github.com/FFFengMJL/SYSU-DataMining/releases) 下载
 
 ## 目录
 
