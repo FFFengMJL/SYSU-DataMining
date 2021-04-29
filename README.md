@@ -6,7 +6,7 @@
 
 ## 目录
 
-1. [HOMEWORK 1: Exercises for Monte Carlo Methods](001/homework1.md)
+1. [Homework 1: Exercises for Monte Carlo Methods](001/homework1.md)
 2. [Homework 2: Evaluation Metrics](002/homework2.md)
 3. [Homework 3: Linear Regression and Logistic Regression](003/homework3.md)
 4. [Homework 4: Clustering Techniques](004/homework4.md)

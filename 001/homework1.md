@@ -1,4 +1,4 @@
-# HOMEWORK 1: Exercises for Monte Carlo Methods
+# Homework 1: Exercises for Monte Carlo Methods
 
 | Student ID | Student Name |
 | :--------: | :----------: |
@@ -6,7 +6,7 @@
 
 > Lectured by 梁上松, Sun Yat-sen University
 
-- [HOMEWORK 1: Exercises for Monte Carlo Methods](#homework-1-exercises-for-monte-carlo-methods)
+- [Homework 1: Exercises for Monte Carlo Methods](#homework-1-exercises-for-monte-carlo-methods)
   - [题目](#题目)
     - [Exercise 1](#exercise-1)
     - [Exercise 2](#exercise-2)
