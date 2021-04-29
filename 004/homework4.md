@@ -1,10 +1,10 @@
-# Homework 3: Clustering Techniques
+# Homework 4: Clustering Techniques
 
 | Student Name | Student ID |
 | :----------: | :--------: |
 |    米家龙    |  18342075  |
 
-- [Homework 3: Clustering Techniques](#homework-3-clustering-techniques)
+- [Homework 4: Clustering Techniques](#homework-4-clustering-techniques)
   - [Exercise 1: Implement K-Means Manually](#exercise-1-implement-k-means-manually)
     - [(a). What’s the center of the first cluster (red) after one iteration?](#a-whats-the-center-of-the-first-cluster-red-after-one-iteration)
     - [(b). What’s the center of the second cluster (green) after two iterations?](#b-whats-the-center-of-the-second-cluster-green-after-two-iterations)

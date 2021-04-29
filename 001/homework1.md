@@ -6,7 +6,15 @@
 
 > Lectured by 梁上松, Sun Yat-sen University
 
-[TOC]
+- [HOMEWORK 1: Exercises for Monte Carlo Methods](#homework-1-exercises-for-monte-carlo-methods)
+  - [题目](#题目)
+    - [Exercise 1](#exercise-1)
+    - [Exercise 2](#exercise-2)
+    - [Exercise 3](#exercise-3)
+  - [代码](#代码)
+    - [Exercise 1 code](#exercise-1-code)
+    - [Exercise 2 code](#exercise-2-code)
+    - [Exercise 3 code](#exercise-3-code)
 
 ## 题目
 

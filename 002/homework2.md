@@ -9,7 +9,27 @@
 > Information Retrieval Course
 > Sun Yat-sen University
 
-[TOC]
+- [Homework 2: Evaluation Metrics](#homework-2-evaluation-metrics)
+  - [Exercise 1: Rank-based Evaluation Metrics, MAP@K, MRR@K](#exercise-1-rank-based-evaluation-metrics-mapk-mrrk)
+    - [(a) AP@5 AP@10 RR@5 RR@10](#a-ap5-ap10-rr5-rr10)
+    - [(b) MAP@5 MAP@10 MRR@5 MRR@10](#b-map5-map10-mrr5-mrr10)
+  - [Exercise 2: Rank-based Evaluation Metrics, Precision@K, Recall@K, NDCG@K](#exercise-2-rank-based-evaluation-metrics-precisionk-recallk-ndcgk)
+    - [(a) P@5 P@10](#a-p5-p10)
+    - [(b) R@5 R@10](#b-r5-r10)
+    - [(c) maximize P@5](#c-maximize-p5)
+    - [(d) maximize P@10](#d-maximize-p10)
+    - [(e) maximize R@5](#e-maximize-r5)
+    - [(f) maximize R@10](#f-maximize-r10)
+    - [(g) R-Precision](#g-r-precision)
+    - [(h) AP; difference between AP and MAP](#h-ap-difference-between-ap-and-map)
+    - [(i) maximize AP](#i-maximize-ap)
+    - [(j) $DCG_5$](#j-dcg_5)
+    - [(k) $NDCG_5$](#k-ndcg_5)
+  - [Exercise 3: Precision-Recall Curves](#exercise-3-precision-recall-curves)
+  - [Exercise 4: Other Evaluation Metrics](#exercise-4-other-evaluation-metrics)
+    - [AUC（Area under ROC curve）](#aucarea-under-roc-curve)
+    - [Kendall tau distance](#kendall-tau-distance)
+    - [Spearman’s ρ](#spearmans-ρ)
 
 ## Exercise 1: Rank-based Evaluation Metrics, MAP@K, MRR@K
 

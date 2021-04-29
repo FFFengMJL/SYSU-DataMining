@@ -4,7 +4,18 @@
 | :----------: | :--------: |
 |    米家龙    |  18342075  |
 
-[TOC]
+- [Homework 3: Linear Regression and Logistic Regression](#homework-3-linear-regression-and-logistic-regression)
+  - [Exercise One: Linear Regression](#exercise-one-linear-regression)
+    - [(a) 梯度下降法训练线性回归模型](#a-梯度下降法训练线性回归模型)
+    - [(b) 学习率 0.0002 进行训练](#b-学习率-00002-进行训练)
+    - [(c) 随机梯度下降迭代](#c-随机梯度下降迭代)
+  - [Exercise Two: Logistic Regression](#exercise-two-logistic-regression)
+    - [(a) 建立梯度下降模型](#a-建立梯度下降模型)
+    - [(b) 模型公式](#b-模型公式)
+    - [(c) 训练模型](#c-训练模型)
+    - [(d) 何时错误率为0](#d-何时错误率为0)
+    - [(e)](#e)
+    - [(f) k 类](#f-k-类)
 
 ## Exercise One: Linear Regression
 
