@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# SYSU-DataMining
 
-You can use the [editor on GitHub](https://github.com/FFFengMJL/SYSU-DataMining/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> 2021 年中山大学计算机学院数据挖掘作业
+> 
+> 讲课老师：梁上松
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 目录
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FFFengMJL/SYSU-DataMining/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [HOMEWORK 1: Exercises for Monte Carlo Methods](001/homework1.md)
+2. [Homework 2: Evaluation Metrics](002/homework2.md)
+3. [Homework 3: Linear Regression and Logistic Regression](003/homework3.md)
+4. [Homework 4: Clustering Techniques](004/homework4.md)
+5. [Homework 5: Recurrent Neural Networks](005/homework5.md)
